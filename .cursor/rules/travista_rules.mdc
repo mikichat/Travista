@@ -3,6 +3,8 @@ description:
 globs: 
 alwaysApply: false
 ---
+## 개발 환경
+--windows 64
 
 ## 🗃 DB 연동
 - MariaDB는 Sequelize 또는 custom API 백엔드와 연동

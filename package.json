@@ -1,0 +1,23 @@
+{
+  "name": "travista",
+  "version": "1.0.0",
+  "description": "src/\r ├── assets/ # 이미지, 아이콘 등 정적 리소스\r ├── components/ # 공통 Vue 컴포넌트\r ├── pages/ # 라우트 단위 뷰 페이지\r ├── stores/ # Pinia 상태 관리\r ├── services/ # API 통신 모듈\r ├── utils/ # 헬퍼 함수\r ├── router/ # Vue Router 설정\r └── App.vue / main.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikichat/Travista.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikichat/Travista/issues"
+  },
+  "homepage": "https://github.com/mikichat/Travista#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "tailwindcss": "^4.1.8"
+  }
+}
